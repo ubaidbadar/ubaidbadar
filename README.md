@@ -2,7 +2,7 @@
 
 - Fullstack Developer
 - Passionate about Next.js and MongoDB
-- 5-star rated seller on Fiverr
+- 5-star rated seller on <a href="https://www.fiverr.com/ubaidbadar333">Fiverr</a>
 
 ### Projects
 - StockAlgos: A stock market analysis tool
