@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ubaid Badar
 
-<!--
-**ubaidbadar/ubaidbadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Fullstack Developer
+- Passionate about Next.js and MongoDB
+- 5-star rated seller on Fiverr
 
-Here are some ideas to get you started:
+### Projects
+- StockAlgos: A stock market analysis tool
+- Eternitai: An AI-powered chatbot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Frontend: HTML5, CSS3, JavaScript, ReactJS
+- Backend: Node.js
+- Frameworks: Next.js, Tailwind CSS
+- Database: MongoDB
